@@ -6,7 +6,7 @@
 - 🌱 Learning **AI/ML** and **System Design**  
 - 👯 Open to collaborating on **Open-Source Projects**  
 - 💬 Ask me about **Web Development, Python, and AI**  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/eswar-samanthula-4bb50a1a6/)  
+<a href="https://www.linkedin.com/in/eswar-samanthula-4bb50a1a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
@@ -32,4 +32,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eswarsamanthula&show_icons=true&theme=radical" alt="Eswar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsamanthula&layout=compact&theme=radical" alt="Top Langs" />
 </p>
